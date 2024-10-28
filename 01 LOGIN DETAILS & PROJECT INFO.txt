@@ -2,13 +2,13 @@
 
 **Database Name: orrsphp**
 
-**Developed by Martin Mbithi Nzilani**
+**Developed by HEMANT SURYAWANSHI
 
 **Recommended PHP Version: 5.6, 7.4, 8.1**
 
 
 **Admin Login Details**
 
-Email   : admin@mail.com
-Password: codeastro.com
+Email   : admin@gmail.com
+Password:hemant1234
 
