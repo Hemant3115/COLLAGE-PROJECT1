@@ -92,7 +92,7 @@
               </div>
             </div>
             <div class="splash-footer"><a href = "pass-login.php">Home</a></div>
-            <div class="splash-footer">&copy; 2024 - <?php echo date ('Y');?> Online Railway Reservation System | Developed By pritam & hemant</div>
+            <div class="splash-footer">&copy; 2024 - <?php echo date ('Y');?> Online Railway Reservation System | Developed By Hemant Suryawanshi</div>
         </div>
       </div>
     </div>
