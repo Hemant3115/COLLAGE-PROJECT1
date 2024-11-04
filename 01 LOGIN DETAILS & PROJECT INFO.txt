@@ -9,6 +9,7 @@
 
 **Admin Login Details**
 
-Email   : admin@gmail.com
-Password:hemant1234
+Email   : admin@mail.com
+Password: codeastro.com
+
 
